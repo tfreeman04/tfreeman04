@@ -7,7 +7,7 @@ I'm Thomas Freeman-Jones, a problem-solver with a diverse background in computer
 - 🌐 Strong analytical mindset with a background in Computer Science for the educational sector.
 - 📈 Keen interest in data engineering, development and cyber security.
 ## 🔍 Projects:
-- Binary educational game
+- 🎮 Binary educational game, using Pygame
 - 🎬 Created a Movie Assistant project using Python to help users select a film from an IMDB list of movies.
 - 🎮 Developed a fun Hangman game project showcasing my programming skills (check it out here)
 - 📉 Conducted comprehensive data analysis on a loan approvals dataset, showcasing skills in data cleaning, imputation, and outlier removal (check it out here)
