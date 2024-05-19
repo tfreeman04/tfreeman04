@@ -18,7 +18,16 @@ I'm Thomas Freeman-Jones, a problem-solver with a diverse background in computer
 - Cyber security methods in the finance industry
 ## 🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/thomas-freeman-jones-0204aa3b)
-
+## 🌈 Let's Collaborate:
+- passionate about contributing to open-source projects.
+- Eager to collaborate on projects related to data engineering, cyber security, or anything that alligns with my diverse skill set.
+## 📚 Education:
+- 🎓 MsC Computer Science from the University of London.
+- 🎓 Post Graduate Certificate in Education specifying in Computer Science
+- 🎓 Data Engineering certification from AiCore
+- 🎓 IsC certified in Cyber Security
+- 🎓 Upper Second Class in Media, Culture and Communications
+## 🌟 Excited to navigate into a new career with like minded developers 🚀
 <!--
 **tfreeman04/tfreeman04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
