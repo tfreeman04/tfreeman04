@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello Developers 👋
 
+I'm Thomas Freeman-Jones, a problem-solver with a diverse background in computer science, data engineering, education leadership and cultural studies.
+** Bold Text ** 🚀 Skills & Expertise:
 <!--
 **tfreeman04/tfreeman04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
