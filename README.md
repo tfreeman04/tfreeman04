@@ -17,7 +17,7 @@ I'm Thomas Freeman-Jones, a problem-solver with a diverse background in computer
 - Exploring aadvanced data science techniques and machine learning applications for financial industries.
 - Cyber security methods in the finance industry
 ## 🌐 Connect with Me:
-- [LinkedIn] https://www.linkedin.com/in/thomas-freeman-jones-0204aa3b
+- [title] (https://www.linkedin.com/in/thomas-freeman-jones-0204aa3b)
 
 <!--
 **tfreeman04/tfreeman04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
